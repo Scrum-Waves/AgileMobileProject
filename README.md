@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![431552999_1366298997267441_4294442939847469160_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/ee14d1c8-1de9-4f8b-8c8a-47a0eab2eb1e)
+![431552999_1366298997267441_4294442939847469160_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/ee14d1c8-1de9-4f8b-8c8a-47a0eab2eb1e | width=100)
 ![432444881_955655879329527_1530871871169990598_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/f2999fdb-cc08-4895-bd13-538ab720b73d)
 ![431652999_398927349402156_2889238076116254907_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/1861c5c3-083a-4c85-bc16-9837a8eef99d)
 ![432657816_711405991204973_5837495032370946152_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/43dd1ecf-8ee6-4db0-972c-71fd20923b9b)
