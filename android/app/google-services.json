@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "317598830665",
+    "project_id": "smartdoai",
+    "storage_bucket": "smartdoai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317598830665:android:7841b327413a3b07dd2f98",
+        "android_client_info": {
+          "package_name": "me.jedidi.smart_do_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317598830665-qvc9h1eot0u7475a44pukp8ieqod4882.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBueWKbuHi-xSXDP7D4Re5oIJDPTIWtCGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317598830665-qvc9h1eot0u7475a44pukp8ieqod4882.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317598830665-8f6t7mmauu197gi61lqtrubp2dfdsds5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartDoAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317598830665:android:6ad622cd7a6ec91add2f98",
+        "android_client_info": {
+          "package_name": "me.jedidi.tasknow.tasknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317598830665-qvc9h1eot0u7475a44pukp8ieqod4882.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBueWKbuHi-xSXDP7D4Re5oIJDPTIWtCGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317598830665-qvc9h1eot0u7475a44pukp8ieqod4882.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317598830665-8f6t7mmauu197gi61lqtrubp2dfdsds5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartDoAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
