@@ -23,3 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 ![431614733_228917340248218_527682497087751149_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/cfb06992-3844-4534-90c2-f2a7b04efd03)
 ![431432562_286353051159141_8193108986332568386_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/bf81e546-f60d-492c-9744-d496196d3926)
 ![431649506_410747728211809_4296400142814119824_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/11476236-22da-4bee-aeaa-24c8a190cde4)
+
+![431572673_682141427459554_5691225670815660119_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/475e7f35-0770-4364-985d-b377563bf7a1)
+![431663730_419453197331060_5153058389280758308_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/95419dc7-3a75-49cf-adba-144db50a1992)
+![431649506_410747728211809_4296400142814119824_n](https://github.com/Scrum-Waves/AgileMobileProject/assets/74512793/279aeaa7-e5b4-46ae-8910-4057205be90d)
